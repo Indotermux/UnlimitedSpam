@@ -1,0 +1,2 @@
+# UnlimitedSpam
+Script work
